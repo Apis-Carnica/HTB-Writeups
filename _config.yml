@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+
+# Site-wide Config
+title: HTB Writeups
+locale: en_US
+logo: # need to add
+
+# Platform Username
+owner:
+  name: Nathan Christensen
+  bio: "I'm an independent security researcher trying to revolutionize the tools that penetration testers and network administrators use everyday to keep everyone safe."
+  email: nchri49@wgu.edu
+  linkedin: nathan-christensen-a0b3a1129
+  github: nateac1
+  avatar: # need to add
