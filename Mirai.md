@@ -7,7 +7,7 @@ serve as a minimal walkthrough while the full writeup will serve as
 an illustrative guide for the relative beginner with real-world tips and tricks
 thrown in to prepare the reader for real-world pentests or for incident
 response encounters. The full writeup with illustrations, diagrams, and links
-can be found on the project's github page as well as the Spanish and Japanese
+can be found [here]{https://github.com/nateac1/HTB-Writeups/blob/master/Mirai-en.pdf} as well as the Spanish and Japanese
 versions of the full writeup.
 
 ## Walkthrough
