@@ -19,7 +19,7 @@ SQL credentials (which work for ssh and phpmyadmin.
 
 #### Gaining Access
 There are a few ways to gain access to this machine, but this page covers ssh.
-If you'd like to know more, go check out my full writeup [here](https://github.com/nateac1/HTB-Writeups/Mirai-en.pdf).
+If you'd like to know more, go check out my full writeup [here](https://github.com/nateac1/HTB-Writeups/blob/master/Blocky-en.pdf).
 Using the username `notch` with the password found in the java file, we have
 access to the machine, and can find the `user.txt` file in the user's home
 directory.
