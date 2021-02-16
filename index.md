@@ -1,7 +1,7 @@
 ## Welcome
-My [latest writeup](Mirai.md) talks about the Mirai machine on HackTheBox; 
+My [latest writeup](Blocky.md) talks about the Blocky machine on HackTheBox; 
 the page found here is the minimal markup document, but the more in-depth and attractive PDF can be found 
-[**here**](https://github.com/nateac1/HTB-Writeups/blob/master/Mirai-en.pdf).  
+[**here**](https://github.com/nateac1/HTB-Writeups/blob/master/Blocky-en.pdf).  
 
 
 Make a note that this is the English version; Spanish and Japanese versions are in the works!  
